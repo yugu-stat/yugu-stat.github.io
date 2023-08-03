@@ -13,12 +13,10 @@ I am an Assistant Professor in the [Department of Statistics & Actuarial Science
 Research Interests
 ======
 My primary research interests lie in survival analysis and semiparametric inference. Recent work includes semiparametric regression analysis of interval-censored multi-state data, evaluation of COVID-19 vaccine/treatment effectiveness, joint modeling of multi-state and longitudinal data, and variable selection for interval-censored data. 
-
 In addition, I am broadly interested in statistical applications to Alzheimer's disease, breast cancer, mental disorders, and oral diseases. 
 
 🚩 <code style="color : red">Openings</code>
 ======
 🧑‍🎓 I have two fully funded PhD positions, one to start in Year 2024/2025 and another one to start in Year 2025/2026. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and network analysis. Please drop me an email with your CV if you are interested in joining my group!  
-
 🙋 For current HKU PhD/master/undergraduate students, please feel free to email me if you are interested in working with me! 
 
