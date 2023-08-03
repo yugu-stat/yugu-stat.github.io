@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I received my PhD in Biostatistics from the [University of North Carolina at Chapel Hill](https://sph.unc.edu/bios/biostatistics/) in 2023, co-advised by Drs. [Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) and [Donglin Zeng](https://sph.unc.edu/adv_profile/donglin-zeng-phd/). Before that, I graduated with a BS in Statistics from the [University of Science & Technology of China](https://sgy.ustc.edu.cn/) in 2018.  
-
-My [CV](/files/CV_230515.pdf) 
+I am an Assistant Professor in the [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I received my PhD in Biostatistics from the [University of North Carolina at Chapel Hill](https://sph.unc.edu/bios/biostatistics/) in 2023, co-advised by Drs. [Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) and [Donglin Zeng](https://sph.unc.edu/adv_profile/donglin-zeng-phd/). Before that, I graduated with a BS in Statistics from the [University of Science & Technology of China](https://sgy.ustc.edu.cn/) in 2018. [My CV](/files/CV_230515.pdf) 
 
 Research Interests
 ======
@@ -22,9 +20,10 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 ======
 🧑‍🎓 I have two fully funded PhD positions, one to start in Year 2024/2025 and another one to start in Year 2025/2026. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and network analysis. Please drop me an email with your CV if you are interested in joining my group! 
 
-🙋 For current HKU PhD/Master/undergraduate students, please feel free to email me if you are interested in working with me! 
+🙋 For current HKU PhD/Master students, and all strong undergraduate students, please feel free to email me if you are interested in my research. We can discuss possible research problems to explore together!  
 
 News
 ======
-- [August 2023] I obtained my PhD degree from UNC and started my appointment at HKU.
-- [July 2023] I gave a talk at ICSA 2023 China Conference.
+- [August 2023] I graduated from UNC and started my appointment at HKU.
+- [July 2023] I gave a talk at ICSA 2023 China Conference and won the travel award.
+- [March 2023] I gave a talk at ENAR 2023 Spring Meeting.
