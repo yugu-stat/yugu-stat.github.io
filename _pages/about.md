@@ -16,8 +16,9 @@ My primary research interests lie in survival analysis and semiparametric infere
 
 In addition, I am broadly interested in statistical applications to Alzheimer's disease, breast cancer, mental disorders, and oral diseases. 
 
-🚩Openings
+🚩 <code style="color : red">Openings</code>
 ======
-🧑‍🎓I have two fully funded PhD positions, one to start in Year 2024/2025 and another one to start in Year 2025/2026. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and network analysis. Please drop me an email with your CV if you are interested in joining my group!  
+🧑‍🎓 I have two fully funded PhD positions, one to start in Year 2024/2025 and another one to start in Year 2025/2026. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and network analysis. Please drop me an email with your CV if you are interested in joining my group!  
 
-🙋For current HKU PhD/master/undergraduate students, please feel free to email me if you are interested in working with me! 
+🙋 For current HKU PhD/master/undergraduate students, please feel free to email me if you are interested in working with me! 
+
