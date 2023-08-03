@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I received my PhD in Biostatistics from the [University of North Carolina at Chapel Hill](https://sph.unc.edu/bios/biostatistics/) in 2023, co-advised by Drs. [Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) and [Donglin Zeng](https://sph.unc.edu/adv_profile/donglin-zeng-phd/). Before that, I graduated with a BS in Statistics from the [University of Science & Technology of China](https://sgy.ustc.edu.cn/) in 2018. [My CV](/files/CV_230515.pdf) 
+I am an Assistant Professor in the [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I received my PhD in Biostatistics from the [University of North Carolina at Chapel Hill](https://sph.unc.edu/bios/biostatistics/) in 2023, co-advised by Drs. [Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) and [Donglin Zeng](https://sph.unc.edu/adv_profile/donglin-zeng-phd/). Before that, I graduated with a BS in Statistics from the [University of Science & Technology of China](https://sgy.ustc.edu.cn/) in 2018. 
+
+[**CV**](/files/CV_230515.pdf) 
 
 Research Interests
 ======
