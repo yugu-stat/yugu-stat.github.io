@@ -3,9 +3,6 @@ layout: archive
 title: "Peer Reviewed Publications"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /research/
-  - /research.html
 ---
 
 {% include base_path %}
@@ -21,7 +18,7 @@ redirect_from:
 1. Lin DY, **Gu Y**, Zeng D, Janes HE, Gilbert PB.  Evaluating Vaccine Efficacy Against Severe Acute Respiratory Syndrome Coronavirus 2 Infection. Clinical Infectious Diseases, 2021.
 1. Divaris K, Slade GD, Ferreira Zandona AG, Preisser JS, Ginnis J, Simancas-Pallares MA, Agler CS, Shrestha P, Karhade DS, Ribeiro AD, Cho H, **Gu Y**, Meyer BD, Joshi AR, Azcarate-Peril MA, Basta PV, Wu D, North KE. Cohort profile: ZOE 2.0—a community-based genetic epidemiologic study of early childhood oral health. International Journal of Environmental Research and Public Health, 2020.
 
-Education
+Book Chapter
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014

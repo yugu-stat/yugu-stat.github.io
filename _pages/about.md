@@ -26,6 +26,6 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 
 News
 ======
-- [August 2023] I graduated from UNC and started my appointment at HKU.
-- [July 2023] I gave a talk at ICSA 2023 China Conference and won the travel award.
-- [March 2023] I gave a talk at ENAR 2023 Spring Meeting.
+- [08/2023] I graduated from UNC and started my appointment at HKU.
+- [07/2023] I gave a talk at ICSA 2023 China Conference and won the travel award.
+- [03/2023] I gave a talk at ENAR 2023 Spring Meeting.
