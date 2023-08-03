@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. Lin DY$^#$, Xu Y$^#$, **Gu Y$^#$**, Zeng D, Wheeler B, Young H, Moore Z, Sunny SK. Effects of COVID-19 Vaccination and Previous SARS-CoV-2 Infection on Omicron Infection and Severe Outcomes in Children Under 12 Years of Age: an Observational Cohort Study. The Lancet Infectious Diseases, 2023.
+1. Lin DY$^\#$, Xu Y$^\#$, **Gu Y$^\#$**, Zeng D, Wheeler B, Young H, Moore Z, Sunny SK. Effects of COVID-19 Vaccination and Previous SARS-CoV-2 Infection on Omicron Infection and Severe Outcomes in Children Under 12 Years of Age: an Observational Cohort Study. The Lancet Infectious Diseases, 2023.
 1. Lin DY, Xu Y, **Gu Y**, Zeng D, Sunny SK, Moore Z. Durability of Bivalent Boosters Against Omicron Subvariants. New England Journal of Medicine, 2023. 
 1. Lin DY, Xu Y, **Gu Y**, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z. Effectiveness of Bivalent Boosters Against Severe Omicron Infection. New England Journal of Medicine, 2023.
 1. Lin DY, **Gu Y**, Xu Y, Wheeler B, Young H, Sunny SK, Moore Z, Zeng D. Association of Primary and Booster Vaccination and Prior Infection With SARS-CoV-2 Infection and Severe COVID-19 Outcomes. JAMA, 2022.
