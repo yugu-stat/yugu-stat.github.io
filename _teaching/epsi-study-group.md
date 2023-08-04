@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Empirical Processes"
 collection: teaching
 permalink: /teaching/epsi-study-group
