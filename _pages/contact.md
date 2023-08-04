@@ -12,7 +12,7 @@ author_profile: true
 **Phone:** (852) 5771-8651
 
 **Office:**<br>
-Room xxx, x/F, Run Run Shaw Building
-The University of Hong Kong
-Pokfulam Road
-Hong Kong
+Room xxx, x/F, Run Run Shaw Building<br>
+The University of Hong Kong<br>
+Pokfulam Road<br>
+Hong Kong<br>
