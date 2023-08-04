@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- [07/2023] "Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State", ICSA 2023 China Conference, Chengdu, China. [Slides](/files/talks-slides/ICSA_China_2023_slides.pdf)
+- [07/2023] "Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State", ICSA 2023 China Conference, Chengdu, China. [```Slides```](/files/talks-slides/ICSA_China_2023_slides.pdf)
 - [03/2023] "Maximum Likelihood Estimation for Semiparametric Regression Models with Interval-Censored Multi-State Data", ENAR 2023 Spring Meeting, Nashville, USA. [Slides](/files/talks-slides/slides_ENAR2023.pdf)
 - [02/2023] "Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State", Department of Biostatistics, Columbia University, New York, USA.
 - [02/2023] "Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State", Department of Statistics, University of Pittsburgh, Pittsburgh, USA.
