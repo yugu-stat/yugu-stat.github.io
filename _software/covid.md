@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "COVID"
+collection: software
 permalink: /software/covid
 ---
 

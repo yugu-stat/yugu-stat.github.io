@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "DOVE"
+collection: software
 permalink: /software/dove
 ---
 
