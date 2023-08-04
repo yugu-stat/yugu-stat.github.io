@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "iDOVE"
-collection: software
 permalink: /software/idove
 ---
 
