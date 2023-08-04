@@ -9,4 +9,4 @@ This R package implements a nonparametric maximum likelihood method described in
 
 References
 ------
-1. Lin, D. Y., Gu, Y., Zeng, D., Janes, H. E., and Gilbert, P. B. (2021). Evaluating Vaccine Efficacy Against SARS-CoV-2 Infection. Clinical Infectious Diseases, ciab630, https://doi.org/10.1093/cid/ciab630.
+1. Lin, D. Y., Gu, Y., Zeng, D., Janes, H. E., and Gilbert, P. B. (2021). Evaluating Vaccine Efficacy Against SARS-CoV-2 Infection. *Clinical Infectious Diseases*, ciab630, https://doi.org/10.1093/cid/ciab630.

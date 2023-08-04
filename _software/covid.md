@@ -16,6 +16,6 @@ References
 ------
 Package source: [COVID_1.0.tar.gz](/files/covid-package/COVID_1.0.tar.gz)<br>
 Reference manual: [COVID-manual.pdf](/files/covid-package/COVID-manual.pdf)<br>
-Vignettes: [COVID-vignette.pdf](/files/covid-package/COVID-vignette.pdf)
+Vignettes: [COVID-vignette.pdf](/files/covid-package/COVID-vignette.pdf)<br>
 SAS macro: [COVID-WLW](https://github.com/yugu-stat/COVID-WLW)
 

@@ -9,5 +9,5 @@ This R package implements maximum likelihood methods described in Lin et al. (20
 
 References
 ------
-1. Lin, D. Y., Zeng, D., Gilbert, P. B. (2021a). Evaluating the Long-term Efficacy of Coronavirus Disease 2019 (COVID-19) Vaccines. Clinical Infectious Diseases, ciab226, https://doi.org/10.1093/cid/ciab226.
-1. Lin, D. Y., Gu Y., Zeng, D., Janes, H. E., Gilbert, P. B. (2021b).  Evaluating Vaccine Efficacy Against Severe Acute Respiratory Syndrome Coronavirus 2 Infection. Clinical Infectious Diseases, ciab630, https://doi.org/10.1093/cid/ciab630.
+1. Lin, D. Y., Zeng, D., Gilbert, P. B. (2021a). Evaluating the Long-term Efficacy of Coronavirus Disease 2019 (COVID-19) Vaccines. *Clinical Infectious Diseases*, ciab226, https://doi.org/10.1093/cid/ciab226.
+1. Lin, D. Y., Gu Y., Zeng, D., Janes, H. E., Gilbert, P. B. (2021b).  Evaluating Vaccine Efficacy Against Severe Acute Respiratory Syndrome Coronavirus 2 Infection. *Clinical Infectious Diseases*, ciab630, https://doi.org/10.1093/cid/ciab630.
