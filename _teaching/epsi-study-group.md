@@ -5,14 +5,10 @@ collection: teaching
 permalink: /teaching/epsi-study-group
 ---
 
-Lecture 01. [Introduction](/files/epsi-slides/EPSI0602_Introduction_and_Overview.pdf)
-
-Lecture 02. [Preliminaries for Empirical Processes](/files/epsi-slides/EPSI0609_Preliminaries_for_Empirical_Processes.pdf)
-
-Lecture 03. [Stochastic Convergence](/files/epsi-slides/EPSI0623_Stochastic_Processes_and_Weak_Convergence.pdf)
-
-Lecture 04. [Stochastic Convergence (Cont.)](/files/epsi-slides/EPSI0630_Weak_Convergence_Cont_and_Other_Modes_of_Convergence.pdf)
-
+Lecture 01. [Introduction](/files/epsi-slides/EPSI0602_Introduction_and_Overview.pdf)     
+Lecture 02. [Preliminaries for Empirical Processes](/files/epsi-slides/EPSI0609_Preliminaries_for_Empirical_Processes.pdf)     
+Lecture 03. [Stochastic Convergence](/files/epsi-slides/EPSI0623_Stochastic_Processes_and_Weak_Convergence.pdf)     
+Lecture 04. [Stochastic Convergence (Cont.)](/files/epsi-slides/EPSI0630_Weak_Convergence_Cont_and_Other_Modes_of_Convergence.pdf)     
 Lecture 05. [Maximal Inequalities](/files/epsi-slides/EPSI0707_EP_Methods_Orlicz_Norm_and_Maximal_Inequalities.pdf)
 
 Lecture 06. [Symmetrization and Measurability](/files/epsi-slides/EPSI0713_Symmetrization_and_Measurability.pdf)
@@ -59,5 +55,5 @@ Lecture 25. [Semiparametric M-Estimation](/files/epsi-slides/EPSI220128-Semipara
 
 Lecture 26. [Case Studies](/files/epsi-slides/EPSI220212_Case_Studies.pdf)
 
-💟 I would like to thank all group members for their important contributions. 
+💟 I would like to thank all group members for their important contributions.       
 ✅ We grant permission to use our slides for teaching purposes. 
