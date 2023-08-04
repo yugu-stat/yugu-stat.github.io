@@ -15,14 +15,7 @@ author_profile: true
 
 Study Groups
 ======
-| Year           | Topic                         |                         |
-| --------       | -----------                   | ---------               |
-| 2021-22        | Empirical Processes and Semiparametric Inference    | PhD level    |
-
-
-
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+| Year           | Topic                                               |              |
+| --------       | -----------                                         | ------       |
+| 2021/2022      | [Empirical Processes and Semiparametric Inference](/teaching/epsi-study-group)    | PhD level    |
 
