@@ -11,5 +11,5 @@ author_profile: true
 
 Study Groups
 ======
-- Empirical Processes and Semiparametric Inference (2021/2022). [Slides](/teaching/epsi-study-group)
+- Empirical Processes and Semiparametric Inference (2021/2022). [Slides 👉](/teaching/epsi-study-group)
 
