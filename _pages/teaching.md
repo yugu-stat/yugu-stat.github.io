@@ -7,16 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-| Semester       | Course                        |                         |
-| --------       | -----------                   | ---------               |
-| 2024 Spring    | STAT3655 Survival Analysis    | Undergraduate course    |
-
-
+**STAT3655** Survival Analysis (Spring 2024)
 
 Study Groups
 ======
-
-| Year           | Topic                                                                             |              |
-| --------       | -----------                                                                       | ------       |
-| 2021/2022      | [Empirical Processes and Semiparametric Inference](/teaching/epsi-study-group)    | PhD level    |
+Empirical Processes and Semiparametric Inference (2021/2022). [Slides](/teaching/epsi-study-group)
 
