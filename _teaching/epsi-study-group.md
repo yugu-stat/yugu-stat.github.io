@@ -35,6 +35,6 @@ Lecture 25. [Semiparametric M-Estimation](/files/epsi-slides/EPSI220128-Semipara
 Lecture 26. [Case Studies](/files/epsi-slides/EPSI220212_Case_Studies.pdf)
 
 <sub><sup>
-💟 I would like to thank all group members for their important contributions.<br>
+💟 I would like to thank all group members for their important contributions.
 ✅ We grant permission to use our slides for teaching purposes. 
 </sup></sub>
