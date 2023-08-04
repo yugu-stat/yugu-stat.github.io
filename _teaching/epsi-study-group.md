@@ -4,7 +4,6 @@ collection: teaching
 type: "Study group"
 permalink: /teaching/epsi-study-group
 venue: "UNC"
-date: 2021-2022
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
