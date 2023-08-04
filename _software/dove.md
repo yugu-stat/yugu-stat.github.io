@@ -3,6 +3,7 @@ layout: archive
 title: "DOVE"
 collection: software
 permalink: /software/dove
+author_profile: true
 ---
 
 This R package implements maximum likelihood methods described in Lin et al. (2021a; 2021b) for evaluating the durability of vaccine efficacy in a randomized, placebo-controlled clinical trial with staggered enrollment of participants and potential crossover of placebo recipients before the end of the trial. It has been released on [CRAN](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FDOVE%2Findex.html&sa=D&sntz=1&usg=AOvVaw1_S0TzF8tavmEWL5EROJRa).  

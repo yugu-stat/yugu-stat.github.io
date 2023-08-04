@@ -3,6 +3,7 @@ layout: archive
 title: "COVID"
 collection: software
 permalink: /software/covid
+author_profile: true
 ---
 
 This R package implements the two robust methods described in Lin et al. (2023+) to assess the totality of evidence for the treatment effects on the entire clinical course of a patient using daily clinical outcomes. In addition, we develop a SAS macro that fits marginal proportional hazards models for multiple events and combines the evidence of treatment effects using the Wei, Lin and Weissfeld (1989, JASA) method. 
