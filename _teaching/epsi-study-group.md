@@ -3,16 +3,11 @@ title: "Empirical Processes and Semiparametric Inference"
 collection: teaching
 type: "Study group"
 permalink: /teaching/epsi-study-group
-venue: "UNC"
+venue: "UNC BIOS"
+date: 2021-06-02
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+1. [Introduction to Empirical Processes and Semiparametric Inference]
+1. []
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

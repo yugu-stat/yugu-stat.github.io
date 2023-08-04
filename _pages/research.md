@@ -21,7 +21,7 @@ author_profile: true
 1. Lin DY, **Gu Y**, Zeng D, Janes HE, Gilbert PB. [Evaluating Vaccine Efficacy Against Severe Acute Respiratory Syndrome Coronavirus 2 Infection](https://doi.org/10.1093/cid/ciab630). *Clinical Infectious Diseases*, 2021.
 1. Divaris K, Slade GD, Ferreira Zandona AG, Preisser JS, Ginnis J, Simancas-Pallares MA, Agler CS, Shrestha P, Karhade DS, Ribeiro AD, Cho H, **Gu Y**, Meyer BD, Joshi AR, Azcarate-Peril MA, Basta PV, Wu D, North KE. [Cohort profile: ZOE 2.0—a community-based genetic epidemiologic study of early childhood oral health](https://www.mdpi.com/1660-4601/17/21/8056). *International Journal of Environmental Research and Public Health*, 2020.
 
-Book Chapter
+Book Chapters
 ======
 1. **Gu Y**$^\dagger$, Divaris K, Gansky S. Imputation of Missing Data. *Oral and Craniofacial Health Research: Principles, Methods and Applications*, edited by Divaris K. Springer. In press.
 
