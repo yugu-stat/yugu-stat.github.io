@@ -58,3 +58,6 @@ Lecture 24. [Efficient Inference for Infinite-Dimensional Parameters](/files/eps
 Lecture 25. [Semiparametric M-Estimation](/files/epsi-slides/EPSI220128-Semiparametric_M_Estimation.pdf)
 
 Lecture 26. [Case Studies](/files/epsi-slides/EPSI220212_Case_Studies.pdf)
+
+💟 I would like to thank all group members for their important contributions. 
+✅ We grant permission to use our slides for teaching purposes. 
