@@ -1,17 +1,19 @@
 ---
 layout: archive
-title: "At HKU"
+title: "Courses"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Semester | Course | Type 
-| :--- | :--- | ---:
-2024 Spring  | STAT3655 Survival Analysis | Undergraduate course
+| Semester       | Course                        |                         |
+| --------       | -----------                   | ---------               |
+| 2024 Spring    | STAT3655 Survival Analysis    | Undergraduate course    |
 
-At UNC
+
+
+Study Groups
 ======
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
