@@ -37,3 +37,23 @@ Lecture 15. [M-Estimators](/files/epsi-slides/EPSI0916_M-Estimators.pdf)
 Lecture 16. [Non-Regular Examples of M-Estimators](/files/epsi-slides/EPSI0923_Nonregular_M-Estimators.pdf)
 
 Lecture 17. [Case Studies](/files/epsi-slides/EPSI0930_CaseStudies.pdf)
+
+Semiparametric Inference
+======
+Lecture 18. [Preliminaries for Semiparametric Inference](/files/epsi-slides/EPSI1007_SI_Preliminaries.pdf)
+
+Lecture 19. [Semiparametric Models and Efficiency](/files/epsi-slides/EPSI1014_Semiparametric_Models_and_Efficiency.pdf)
+
+Lecture 20. [Efficiency and Testing](/files/epsi-slides/EPSI1025_Efficiency_and_Testing.pdf)
+
+Lecture 21. [Efficient Inference for Finite-Dimensional Parameters](/files/epsi-slides/EPSI1104_Efficient_Inference.pdf)
+
+Lecture 22. [Profile Likelihood](/files/epsi-slides/EPSI1111_Profile_Likelihood.pdf)
+
+Lecture 23. [Profile Sampler](/files/epsi-slides/EPSI1118_Profile_Sampler.pdf)
+
+Lecture 24. [Efficient Inference for Infinite-Dimensional Parameters](/files/epsi-slides/EPSI1202_Efficient_Inference_Infinite.pdf)
+
+Lecture 25. [Semiparametric M-Estimation](/files/epsi-slides/EPSI220128-Semiparametric_M_Estimation.pdf)
+
+Lecture 26. [Case Studies](/files/epsi-slides/EPSI220212_Case_Studies.pdf)
