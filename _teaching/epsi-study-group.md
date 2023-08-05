@@ -31,7 +31,7 @@ Lecture 21. [Efficient Inference for Finite-Dimensional Parameters](/files/epsi-
 Lecture 22. [Profile Likelihood](/files/epsi-slides/EPSI1111_Profile_Likelihood.pdf)<br>
 Lecture 23. [Profile Sampler](/files/epsi-slides/EPSI1118_Profile_Sampler.pdf)<br>
 Lecture 24. [Efficient Inference for Infinite-Dimensional Parameters](/files/epsi-slides/EPSI1202_Efficient_Inference_Infinite.pdf)<br>
-Lecture 25. [Semiparametric M-Estimation](/files/epsi-slides/EPSI220128-Semiparametric_M_Estimation.pdf)<br>
+Lecture 25. [Semiparametric M-Estimation](/files/epsi-slides/EPSI220128_Semiparametric_M_Estimation.pdf)<br>
 Lecture 26. [Case Studies](/files/epsi-slides/EPSI220212_Case_Studies.pdf)
 
 <sub><sup>💟 I would like to thank all group members for their important contributions, namely Yilun Li, Xinjie Qian, Richard Sizelove, Jianqiao Wang, Wenyi Xie, and Yangjianchen Xu, listed in alphabetical order.</sup></sub>
