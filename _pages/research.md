@@ -10,6 +10,7 @@ author_profile: true
 <sub><sup>$^\*$ indicates equal contribution; $^\dagger$ indicates corresponding author. </sup></sub>
 1. **Gu Y**, Zeng D, Heiss G, Lin DY. [Maximum Likelihood Estimation for Semiparametric Regression Models with Interval-Censored Multi-State Data](http://arxiv.org/abs/2209.07708). Major revision requested by *Biometrika*. 
 1. Lin DY, Xu Y, **Gu Y**, et al. Impact of Booster Vaccination Interval on SARS-CoV-2 Infection, Hospitalization, and Death: An Observational Cohort Study. Major revision requested by *The Lancet Public Health*.
+1. Lin DY, Wang J, **Gu Y**, Zeng D. Evaluating Treatment Efficacy in Hospitalized Covid-19 Patients. Major revision requested by *Clinical Trials*.
 1. Lin DY$^\*$, Xu Y$^\*$, **Gu Y**$^\*$, Zeng D, Wheeler B, Young H, Moore Z, Sunny SK. [Effects of COVID-19 Vaccination and Previous SARS-CoV-2 Infection on Omicron Infection and Severe Outcomes in Children Under 12 Years of Age: an Observational Cohort Study](https://doi.org/10.1016/S1473-3099(23)00272-4). *The Lancet Infectious Diseases*, 2023.
 1. Lin DY, Xu Y, **Gu Y**, Zeng D, Sunny SK, Moore Z. [Durability of Bivalent Boosters Against Omicron Subvariants](https://www.nejm.org/doi/full/10.1056/NEJMc2302462?query=featured_coronavirus). *New England Journal of Medicine*, 2023. 
 1. Lin DY, Xu Y, **Gu Y**, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z. [Effectiveness of Bivalent Boosters Against Severe Omicron Infection](https://www.nejm.org/doi/full/10.1056/NEJMc2215471). *New England Journal of Medicine*, 2023.
@@ -28,7 +29,6 @@ Book Chapters
 Papers Under Review
 ======
 1. **Gu Y**, Zeng D, Lin DY. Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State. 
-1. Lin DY, Wang J, **Gu Y**, Zeng D. Evaluating Treatment Efficacy in Hospitalized Covid-19 Patients. 
 1. Simancas-Pallares MA, Gormley A, Shrestha P, **Gu Y**, Cho H, Spangler HD, Burk Z, Smith M, Dashper S, Burgner D, Ferreira Zandoná AG, Ginnis J, Vann WF, Esberg A, Roach J, Ribeiro A, Wu D, Silva MJ, Holgerson PL, Haworth S, Johansson I, North KE, Divaris K. Evidence for Clinical Subtypes of Early Childhood Caries. 
 1. Shrestha P, Divaris K, Graff M, **Gu Y**, Wang Y, Avery CL, Ginnis J, Simancas-Pallares MA, Ferreira Zandona AG, Ahn HS, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE. Multi-ancestry Genome-Wide Association Study of Early Childhood Caries.   
   
