@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Gu"
+title                    : "Yu Gu's Homepage"
 title_separator          : "-"
 name                     : &name "Yu Gu"
 description              : &description "personal description"
