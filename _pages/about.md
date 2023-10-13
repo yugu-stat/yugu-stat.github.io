@@ -26,6 +26,7 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 
 News
 ======
+- [10/2023] Our paper on semiparametric inference with interval-censored multi-state data was accepted by Biometrika. 
 - [08/2023] I graduated from UNC and started my appointment at HKU.
 - [07/2023] I gave a talk at ICSA 2023 China Conference and won the travel award.
 - [03/2023] I gave a talk at ENAR 2023 Spring Meeting.
