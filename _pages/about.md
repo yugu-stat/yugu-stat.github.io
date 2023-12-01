@@ -14,7 +14,7 @@ My [**CV**](/files/CV_231013.pdf) here
 
 Research Interests
 ======
-My primary research interests lie in survival analysis and semiparametric inference. Recent work includes semiparametric regression analysis of interval-censored multi-state data, evaluation of COVID-19 vaccine/treatment effectiveness, joint modeling of multi-state and longitudinal data, and variable selection for interval-censored data. 
+My primary research interests lie in survival analysis and semiparametric inference. Recent work includes semiparametric regression analysis of interval-censored multi-state data, evaluation of COVID-19 vaccine/treatment effectiveness, joint modeling of multi-state and longitudinal data, and transfer learning for high-dimensional survival data. 
 
 In addition, I am broadly interested in statistical applications to Alzheimer's disease, breast cancer, mental disorders, and oral diseases. 
 
@@ -22,7 +22,7 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 ======
 🆕 I am seeking a highly motivated Research Assistant to join our research team, focusing on the investigation of complex chronic diseases using multi-state models. Requirements: (1) strong knowledge and experience in survival analysis, (2) proficiency in C++ and R programming, (3) excellent data analysis skills, (4) effective communication skills. Please contact me if you are interested in this opportunity! 
 
-🧑‍🎓 I have two fully funded PhD positions. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and/or network analysis. Please drop me an email with your CV if you are interested in joining my group!
+<!-- 🧑‍🎓 I have two fully funded PhD positions. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and/or network analysis. Please drop me an email with your CV if you are interested in joining my group! -->
 
 🙋 For current HKU PhD/MPhil students, and all strong undergraduate students, please feel free to email me if you are interested in my research. We can discuss possible research problems to explore together!  
 
