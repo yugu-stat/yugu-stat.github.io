@@ -20,11 +20,11 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 
 🚩 <span style='color: red;'>Openings</span>
 ======
-🆕 I am seeking a highly motivated Research Assistant to join our research team, focusing on the investigation of complex chronic diseases using multi-state models. Requirements: (1) strong knowledge and experience in survival analysis, (2) proficiency in C++ and R programming, (3) excellent data analysis skills, (4) effective communication skills. Please contact me if you are interested in this opportunity! 
+<!-- 🆕 I am seeking a highly motivated Research Assistant to join our research team, focusing on the investigation of complex chronic diseases using multi-state models. Requirements: (1) strong knowledge and experience in survival analysis, (2) proficiency in C++ and R programming, (3) excellent data analysis skills, (4) effective communication skills. Please contact me if you are interested in this opportunity!  -->
 
 <!-- 🧑‍🎓 I have two fully funded PhD positions. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and/or network analysis. Please drop me an email with your CV if you are interested in joining my group! -->
 
-🙋 For current HKU PhD/MPhil students, and all strong undergraduate students, please feel free to email me if you are interested in my research. We can discuss possible research problems to explore together!  
+🙋 For current HKU students, and all strong undergraduate students, please feel free to email me if you are interested in my research. We can discuss possible research problems to explore together!  
 
 News
 ======
