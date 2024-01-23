@@ -24,7 +24,7 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 
 <!-- 🧑‍🎓 I have two fully funded PhD positions. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and/or network analysis. Please drop me an email with your CV if you are interested in joining my group! -->
 
-🙋 For current HKU students, and all strong undergraduate students, please feel free to email me if you are interested in my research. We can discuss possible research problems to explore together!  
+🙋 Please send me an email with your CV and transcript if you are interested in working with me. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually. 
 
 News
 ======
