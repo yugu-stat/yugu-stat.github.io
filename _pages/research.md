@@ -9,7 +9,7 @@ author_profile: true
 
 <sub><sup>$^\*$ indicates equal contribution; $^\dagger$ indicates corresponding author. </sup></sub>
 1. Lin DY, Xu Y, **Gu Y**, et al. Impact of Booster Vaccination Interval on SARS-CoV-2 Infection, Hospitalization, and Death: An Observational Cohort Study. Major revision requested by *The Lancet Public Health*.
-1. Lin DY, Wang J, **Gu Y**, Zeng D. Evaluating Treatment Efficacy in Hospitalized Covid-19 Patients. *Clinical Trials: Journal of the Society for Clinical Trials*, accepted, 2024.
+1. Lin DY, Wang J, **Gu Y**, Zeng D. [Evaluating treatment efficacy in hospitalized COVID-19 patients, with applications to Adaptive COVID-19 Treatment Trials](https://journals.sagepub.com/doi/full/10.1177/17407745241238443). *Clinical Trials*, 2024.
 1. **Gu Y**, Zeng D, Heiss G, Lin DY. [Maximum Likelihood Estimation for Semiparametric Regression Models with Interval-Censored Multi-State Data](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asad073/7449956?utm_source=authortollfreelink&utm_campaign=biomet&utm_medium=email&guestAccessKey=ac6ad3e0-31ff-4cc6-8c69-760080f969f7). *Biometrika*, 2023. 
 1. Lin DY$^\*$, Xu Y$^\*$, **Gu Y**$^\*$, Zeng D, Wheeler B, Young H, Moore Z, Sunny SK. [Effects of COVID-19 Vaccination and Previous SARS-CoV-2 Infection on Omicron Infection and Severe Outcomes in Children Under 12 Years of Age: an Observational Cohort Study](https://doi.org/10.1016/S1473-3099(23)00272-4). *The Lancet Infectious Diseases*, 2023.
 1. Lin DY, Xu Y, **Gu Y**, Zeng D, Sunny SK, Moore Z. [Durability of Bivalent Boosters Against Omicron Subvariants](https://www.nejm.org/doi/full/10.1056/NEJMc2302462?query=featured_coronavirus). *New England Journal of Medicine*, 2023. 
