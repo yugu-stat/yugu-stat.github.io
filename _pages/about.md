@@ -18,7 +18,7 @@ My primary research interests lie in survival analysis and semiparametric infere
 
 In addition, I am broadly interested in statistical applications to Alzheimer's disease, breast cancer, mental disorders, and oral diseases. 
 
-🚩 <span style='color: black;'>Openings</span>
+🚩 <span style='color: red;'>Openings</span>
 ======
 <!-- 🆕 I am seeking a highly motivated Research Assistant to join our research team, focusing on the investigation of complex chronic diseases using multi-state models. Requirements: (1) strong knowledge and experience in survival analysis, (2) proficiency in C++ and R programming, (3) excellent data analysis skills, (4) effective communication skills. Please contact me if you are interested in this opportunity!  -->
 
@@ -28,7 +28,7 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 
 News
 ======
-- [04/2024] I am truly humbled and grateful to receive the Barry H. Margolin dissertation award.
+- [04/2024] I am deeply honored to receive the Barry H. Margolin dissertation award.
 - [01/2024] I gave a talk at the IMS-APRM 2024 Meeting.
 - [10/2023] Our paper on semiparametric inference with interval-censored multi-state data was accepted by Biometrika. 
 - [08/2023] I graduated from UNC and started my appointment at HKU.
