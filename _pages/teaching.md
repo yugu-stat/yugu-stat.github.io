@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- STAT3655: Survival Analysis (Spring 2024)
+- STAT3655: Survival Analysis (Spring 2024) [[Slides]](/teaching/stat3655)
 
 Study Groups
 ======
