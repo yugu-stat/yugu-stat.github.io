@@ -28,7 +28,7 @@ Book Chapters
 
 Papers Under Review or In Revision
 ======
-1. **Gu Y**, Zeng D, Lin DY. Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State. Major revision requested by *Journal of the American Statistical Association*.  
+1. **Gu Y**$^\dagger$, Zeng D, Lin DY. Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State. Major revision requested by *Journal of the American Statistical Association*.  
 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Avery CL, Ginnis J, Simancas-Pallares MA, Ferreira Zandona AG, Ahn HS, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. Multi-ancestry Genome-Wide Association Study of Early Childhood Caries. Major revision requested by *Journal of Dental Research*.  
 1. Simancas-Pallares MA, Gormley A, Shrestha P, **Gu Y**, Cho H, Spangler HD, Burk Z, Smith M, Dashper S, Burgner D, Ferreira Zandoná AG, Ginnis J, Vann WF, Esberg A, Roach J, Ribeiro A, Wu D, Silva MJ, Holgerson PL, Haworth S, Johansson I, North KE, Divaris K. Evidence for Clinical Subtypes of Early Childhood Caries.  
   
