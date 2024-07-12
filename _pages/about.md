@@ -28,9 +28,8 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 
 News
 ======
-- [04/2024] I am deeply honored to receive the Barry H. Margolin dissertation award.
+- [06/2024] I am grateful to have received the RGC-ECS grant.
+- [04/2024] I am honored to have received the Barry H. Margolin dissertation award.
 - [01/2024] I gave a talk at the IMS-APRM 2024 Meeting.
-- [10/2023] Our paper on semiparametric inference with interval-censored multi-state data was accepted by Biometrika. 
+- [10/2023] Our paper on semiparametric inference with interval-censored multi-state data has been accepted by Biometrika. 
 - [08/2023] I graduated from UNC and started my appointment at HKU.
-- [07/2023] I gave a talk at the ICSA 2023 China Conference and received the travel award.
-- [03/2023] I gave a talk at the ENAR 2023 Spring Meeting.
