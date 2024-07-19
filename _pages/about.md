@@ -18,10 +18,10 @@ My primary research interests lie in survival analysis and semiparametric infere
 
 In addition, I am broadly interested in statistical applications to Alzheimer's disease, breast cancer, mental disorders, and oral diseases. 
 
-<!-- 🚩 <span style='color: red;'>Openings</span> -->
 Openings
 ======
 Please send me an email with your CV and transcript if you are interested in working with me. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.
+<!-- 🚩 <span style='color: red;'>Openings</span> -->
 <!-- 🆕 I am seeking a highly motivated Research Assistant to join our research team, focusing on the investigation of complex chronic diseases using multi-state models. Requirements: (1) strong knowledge and experience in survival analysis, (2) proficiency in C++ and R programming, (3) excellent data analysis skills, (4) effective communication skills. Please contact me if you are interested in this opportunity!  -->
 
 <!-- 🧑‍🎓 I have two fully funded PhD positions. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and/or network analysis. Please drop me an email with your CV if you are interested in joining my group! -->
