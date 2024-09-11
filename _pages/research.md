@@ -35,7 +35,7 @@ Papers Under Review or In Revision
   
 Grants
 ======
-1. RGC-ECS Grant 27303624 (PI)
+1. Hong Kong RGC-ECS Grant 27303624 (PI)
    - Project title: Joint analysis of interval-censored multi-state data, longitudinal data, and competing risks data
    - Period: 01/01/2025 -- 12/31/2027
    - Amount: 831,657 HKD
