@@ -12,7 +12,7 @@ author_profile: true
 **Phone:** (852) 3917-8322
 
 **Office:**<br>
-Room 207, Run Run Shaw Building<br>
+Room 231, Run Run Shaw Building<br>
 The University of Hong Kong<br>
 Pokfulam Road<br>
 Hong Kong<br>

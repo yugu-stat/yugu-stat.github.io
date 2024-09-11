@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-- Jingyi Hu (2024 -- present)
-- Chenrui Qi (2024 -- present)
-- Ruoxi Lyu (2024 -- present)
+- Jingyi Hu (2024--present)
+- Chenrui Qi (2024--present)
+- Ruoxi Lyu (2024--present)
