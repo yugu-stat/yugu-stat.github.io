@@ -37,5 +37,9 @@ Grants
 ======
 1. RGC-ECS Grant 27303624 (PI)
    - Project title: Joint analysis of interval-censored multi-state data, longitudinal data, and competing risks data
-   - Funding year: 2024
+   - Period: 01/01/2025 -- 12/31/2027
    - Amount: 831,657 HKD
+1. HKU Seed Fund for Basic Research for New Staff (PI)
+   - Project title: Statistical theory and methods for transfer learning in high-dimensional survival analysis
+   - Period: 08/01/2024 -- 07/31/2026
+   - Amount: 150,000 HKD
