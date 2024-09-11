@@ -250,7 +250,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
   # _people
   - scope:
       path: ""
