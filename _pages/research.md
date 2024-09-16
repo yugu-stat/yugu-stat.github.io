@@ -36,4 +36,4 @@ Papers Under Review or In Revision
 Grants
 ======
 1. Hong Kong RGC-ECS Grant 27303624 (PI, 2025--2027). "Joint analysis of interval-censored multi-state data, longitudinal data, and competing risks data".
-1. HKU Seed Fund for Basic Research for New Staff (PI, 2024--2026). "Statistical theory and methods for transfer learning in high-dimensional survival analysis".
+<!-- 1. HKU Seed Fund for Basic Research for New Staff (PI, 2024--2026). "Statistical theory and methods for transfer learning in high-dimensional survival analysis". -->
