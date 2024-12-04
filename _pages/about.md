@@ -20,7 +20,8 @@ In addition, I am broadly interested in statistical applications to Alzheimer's 
 
 Openings
 ======
-Please send me an email with your CV and transcript if you are interested in working with me. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.
+To be announced.
+<!-- Please send me an email with your CV and transcript if you are interested in working with me. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually. -->
 <!-- 🚩 <span style='color: red;'>Openings</span> -->
 <!-- 🆕 I am seeking a highly motivated Research Assistant to join our research team, focusing on the investigation of complex chronic diseases using multi-state models. Requirements: (1) strong knowledge and experience in survival analysis, (2) proficiency in C++ and R programming, (3) excellent data analysis skills, (4) effective communication skills. Please contact me if you are interested in this opportunity!  -->
 
