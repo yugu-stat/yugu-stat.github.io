@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-- STAT3655: Survival Analysis (Spring 2024) [[Slides]](/teaching/stat3655)
+- STAT3655 Survival Analysis (Spring 2024, 2025) [[Slides]](/teaching/stat3655)
+- STAT6018 Research Frontiers in Data Science (Spring 2025) 
 
 Study Groups
 ======

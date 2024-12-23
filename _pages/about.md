@@ -14,7 +14,7 @@ My [**CV**](/files/CV_241016.pdf) here
 
 Research Interests
 ======
-My primary research interests lie in survival analysis and semiparametric inference. Recent work includes semiparametric regression analysis of interval-censored multi-state data, evaluation of COVID-19 vaccine/treatment effectiveness, joint modeling of multi-state and longitudinal data, and transfer learning for high-dimensional survival data. 
+My primary research interests lie in survival analysis and semiparametric inference. Recent work includes semiparametric regression analysis of interval-censored multi-state data, evaluation of COVID-19 vaccine/treatment effectiveness, joint modeling of multi-state and longitudinal data, and transfer learning for survival analysis. 
 
 In addition, I am broadly interested in statistical applications to Alzheimer's disease, breast cancer, mental disorders, and oral diseases. 
 
@@ -31,6 +31,7 @@ To be announced.
 
 News
 ======
+- [12/2024] Our paper on semiparametric analysis of multi-state data under mixed censoring schemes has been accepted by JASA.
 - [06/2024] I am grateful to have received the RGC-ECS grant.
 - [04/2024] I am honored to have received the Barry H. Margolin dissertation award.
 - [10/2023] Our paper on semiparametric inference with interval-censored multi-state data has been accepted by Biometrika. 

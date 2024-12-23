@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <sub><sup>$^\*$ indicates equal contribution; $^\dagger$ indicates corresponding author; <sup>#</sup> indicates student coauthor. </sup></sub>
+1. **Gu Y**$^\dagger$, Zeng D, Lin DY. Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State. *Journal of the American Statistical Association*, accepted, 2024.
 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Avery CL, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Orlova K, Ahn HS, Nguyen KN, Highland HM, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. [Multiancestry Genome-Wide Association Study of Early Childhood Caries](https://journals.sagepub.com/doi/10.1177/00220345241291528). *Journal of Dental Research*, 2024. 
 1. Lin DY, Xu Y, **Gu Y**, Sunny SK, Moore Z, Zeng D. [Impact of Booster Vaccination Interval on SARS-CoV-2 Infection, Hospitalization, and Death](https://www.ijidonline.com/article/S1201-9712(24)00155-3/fulltext). *International Journal of Infectious Diseases*, 2024.
 1. Lin DY, Wang J, **Gu Y**, Zeng D. [Evaluating treatment efficacy in hospitalized COVID-19 patients, with applications to Adaptive COVID-19 Treatment Trials](https://journals.sagepub.com/doi/full/10.1177/17407745241238443). *Clinical Trials*, 2024.
@@ -28,8 +29,7 @@ Book Chapters
 1. **Gu Y**$^\dagger$, Divaris K, Gansky S. Imputation of Missing Data. *Oral and Craniofacial Health Research: Principles, Methods and Applications*, edited by Divaris K. Springer. In press.
 
 Papers Under Review or In Revision
-======
-1. **Gu Y**$^\dagger$, Zeng D, Lin DY. Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State. Major revision requested by *Journal of the American Statistical Association*.  
+======  
 1. Simancas-Pallares MA, Gormley A, Shrestha P, **Gu Y**, Cho H, Spangler HD, Burk Z, Smith M, Dashper S, Burgner D, Ferreira Zandoná AG, Ginnis J, Vann WF, Esberg A, Roach J, Ribeiro A, Wu D, Silva MJ, Holgerson PL, Haworth S, Johansson I, North KE, Divaris K. Evidence for Clinical Subtypes of Early Childhood Caries.  
 1. Fang J<sup>#</sup>, **Gu Y**, Yin G. Pseudo-death: A New Measure to Evaluate Composite Outcomes in Survival Analysis.
   
