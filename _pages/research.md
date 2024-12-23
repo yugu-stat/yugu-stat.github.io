@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<sub><sup>$^\*$ indicates equal contribution; $^\dagger$ indicates corresponding author; <sup>#</sup> indicates student coauthor. </sup></sub>
+<sub><sup>$^\dagger$ indicates corresponding author; $^\*$ indicates equal contribution; <sup>#</sup> indicates student coauthor. </sup></sub>
 1. **Gu Y**$^\dagger$, Zeng D, Lin DY. Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State. *Journal of the American Statistical Association*, accepted, 2024.
 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Avery CL, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Orlova K, Ahn HS, Nguyen KN, Highland HM, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. [Multiancestry Genome-Wide Association Study of Early Childhood Caries](https://journals.sagepub.com/doi/10.1177/00220345241291528). *Journal of Dental Research*, 2024. 
 1. Lin DY, Xu Y, **Gu Y**, Sunny SK, Moore Z, Zeng D. [Impact of Booster Vaccination Interval on SARS-CoV-2 Infection, Hospitalization, and Death](https://www.ijidonline.com/article/S1201-9712(24)00155-3/fulltext). *International Journal of Infectious Diseases*, 2024.
