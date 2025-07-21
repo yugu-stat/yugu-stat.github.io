@@ -14,9 +14,9 @@ My [**CV**](/files/CV_241016.pdf) here
 
 Research Interests
 ======
-- **Survival analysis:** I study semiparametric regression models for complex censored outcomes, with a focus on interval-censored failure times and multi-state processes. I also develop methods for integrative analysis of survival, longitudinal, and imaging data to enhance risk prediction in chronic diseases. Moreover, I am broadly interested in statistical applications of survival analysis in medicine and public health.    
-- **Statistical machine learning:** I develop novel machine learning methods tailored to survival outcomes, with a special interest in transfer learning for survival analysis. I also investigate deep learning approaches for flexible nonparametric and semiparametric inference with censored data.
-- **Functional data analysis:** Together with my colleagues, I develop novel methods for analyzing complex functional and longitudinal data, particularly those with informative observation times and latent structures.
+- Survival analysis: I study semiparametric regression models for complex censored outcomes, with a focus on interval-censored failure times and multi-state processes. I also develop methods for integrative analysis of survival, longitudinal, and imaging data to enhance risk prediction in chronic diseases. Moreover, I am broadly interested in statistical applications of survival analysis in medicine and public health.    
+- Statistical machine learning: I develop novel machine learning methods tailored to survival outcomes, with a special interest in transfer learning for survival analysis. I also investigate deep learning approaches for flexible nonparametric and semiparametric inference with censored data.
+- Functional data analysis: Together with my colleagues, I develop novel methods for analyzing complex functional and longitudinal data, particularly those with informative observation times and latent structures.
 
 <!-- My primary research interests lie in survival analysis and semiparametric inference. Recent work includes semiparametric regression analysis of interval-censored multi-state data, evaluation of COVID-19 vaccine/treatment effectiveness, joint modeling of multi-state and longitudinal data, and transfer learning for survival analysis. 
 
