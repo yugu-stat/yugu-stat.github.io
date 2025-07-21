@@ -35,7 +35,7 @@ Papers Under Review or In Revision
 1. Ye Z, Wang Y, **Gu Y**, Kang K. A Longitudinal Multi-Domain Latent Structure Model for Domain-specific Disease Progression. 
 1. Lyu R<sup>#</sup>, **Gu Y**$^\dagger$, Jiang J<sup>#</sup>, Lam KF. Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs.
   
-Grants
+<!-- Grants
 ======
-1. Hong Kong RGC-ECS Grant 27303624 (PI, 2025--2027). "Joint analysis of interval-censored multi-state data, longitudinal data, and competing risks data".
+1. Hong Kong RGC-ECS Grant 27303624 (PI, 2025--2027). "Joint analysis of interval-censored multi-state data, longitudinal data, and competing risks data". -->
 <!-- 1. HKU Seed Fund for Basic Research for New Staff (PI, 2024--2026). "Statistical theory and methods for transfer learning in high-dimensional survival analysis". -->
