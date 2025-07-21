@@ -20,13 +20,9 @@ Research Interests
 
 Openings
 ======
-<!-- To be announced. -->
 🚩 I have several PhD positions. Please email me your CV and transcript if you are interested. Applicants with strong mathematical background and computational skills are preferred. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  
 
 🚩 I have one Postdoc position. Please email me your CV if you are interested. Applicants from all research areas, with at least one first-authored statistical paper published or under revision, will be given full consideration. 
-<!-- Please send me an email with your CV and transcript if you are interested in working with me. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually. -->
-<!-- 🚩 <span style='color: red;'>Openings</span> -->
-<!-- 🆕 I am seeking a highly motivated Research Assistant to join our research team, focusing on the investigation of complex chronic diseases using multi-state models. Requirements: (1) strong knowledge and experience in survival analysis, (2) proficiency in C++ and R programming, (3) excellent data analysis skills, (4) effective communication skills. Please contact me if you are interested in this opportunity!  -->
 
 News
 ======
