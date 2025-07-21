@@ -14,26 +14,19 @@ My [**CV**](/files/CV_241016.pdf) here
 
 Research Interests
 ======
-- Survival analysis: I study semiparametric regression models for complex censored outcomes, with a focus on interval-censored failure times and multi-state processes. I also develop methods for integrative analysis of survival, longitudinal, and imaging data to enhance risk prediction in chronic diseases. Moreover, I am broadly interested in statistical applications of survival analysis in medicine and public health.    
-- Statistical machine learning: I develop novel machine learning methods tailored to survival outcomes, with a special interest in transfer learning for survival analysis. I also investigate deep learning approaches for flexible nonparametric and semiparametric inference with censored data.
-- Functional data analysis: Together with my colleagues, I develop novel methods for analyzing complex functional and longitudinal data, particularly those with informative observation times and latent structures.
-
-<!-- My primary research interests lie in survival analysis and semiparametric inference. Recent work includes semiparametric regression analysis of interval-censored multi-state data, evaluation of COVID-19 vaccine/treatment effectiveness, joint modeling of multi-state and longitudinal data, and transfer learning for survival analysis. 
-
-In addition, I am broadly interested in statistical applications to Alzheimer's disease, breast cancer, mental disorders, and oral diseases.  -->
+- **Survival analysis:** I study semiparametric regression models for complex censored outcomes, with a focus on interval-censored failure times and multi-state processes. I also develop methods for integrative analysis of survival, longitudinal, and imaging data to enhance risk prediction in chronic diseases. Moreover, I am broadly interested in statistical applications of survival analysis in medicine and public health.    
+- **Statistical machine learning:** I develop novel machine learning methods tailored to survival outcomes, with a special interest in transfer learning for survival analysis. I also investigate deep learning approaches for flexible nonparametric and semiparametric inference with censored data.
+- **Functional data analysis:** Together with my colleagues, I develop novel methods for analyzing complex functional and longitudinal data, particularly those with informative observation times and latent structures.
 
 Openings
 ======
 <!-- To be announced. -->
 🚩 I have several PhD positions. Please email me your CV and transcript if you are interested. Applicants with strong mathematical background and computational skills are preferred. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  
+
 🚩 I have one Postdoc position. Please email me your CV if you are interested. Applicants from all research areas, with at least one first-authored statistical paper published or under revision, will be given full consideration. 
 <!-- Please send me an email with your CV and transcript if you are interested in working with me. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually. -->
 <!-- 🚩 <span style='color: red;'>Openings</span> -->
 <!-- 🆕 I am seeking a highly motivated Research Assistant to join our research team, focusing on the investigation of complex chronic diseases using multi-state models. Requirements: (1) strong knowledge and experience in survival analysis, (2) proficiency in C++ and R programming, (3) excellent data analysis skills, (4) effective communication skills. Please contact me if you are interested in this opportunity!  -->
-
-<!-- 🧑‍🎓 I have two fully funded PhD positions. We will work together on exciting problems at the interface of survival analysis, machine learning, functional/imaging data, and/or network analysis. Please drop me an email with your CV if you are interested in joining my group! -->
-
-<!-- 🙋 Please send me an email with your CV and transcript if you are interested in working with me. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  -->
 
 News
 ======
