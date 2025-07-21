@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+- [07/2025] "Prediction-Oriented Transfer Learning for Survival Analysis", The 3rd Joint Conference on Statistics and Data Science in China, Hangzhou, China.
+- [06/2025] "Prediction-Oriented Transfer Learning for Survival Analysis", ICSA 2025 China Conference, Zhuhai, China.
 - [07/2024] "Maximum Likelihood Estimation for Semiparametric Regression Models with Interval-Censored Multi-State Data", EcoSta 2024, Beijing, China.
 - [01/2024] "Evaluating Treatment Efficacy in Hospitalized COVID-19 Patients", IMS-APRM 2024, Melbourne, Australia. [[Slides]](/files/talks-slides/IP65-4-YuGu-AW153.pdf)
 - [07/2023] "Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State", ICSA 2023 China Conference, Chengdu, China. [[Slides]](/files/talks-slides/ICSA_China_2023_slides.pdf)
