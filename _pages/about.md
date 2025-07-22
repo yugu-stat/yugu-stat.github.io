@@ -29,4 +29,3 @@ News
 - [06/2024] I am grateful to have received the RGC-ECS grant.
 - [04/2024] I am honored to have received the Barry H. Margolin dissertation award.
 - [10/2023] Our paper on semiparametric inference with interval-censored multi-state data has been accepted by Biometrika. 
-- [08/2023] I graduated from UNC and started my appointment at HKU.
