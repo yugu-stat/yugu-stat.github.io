@@ -34,7 +34,7 @@ Papers Under Review or In Revision
 1. Fang J<sup>#</sup>$^\*$, **Gu Y**$^\*$, Yin G. Pseudo-death: A New Measure to Evaluate Composite Outcomes in Survival Analysis. Major revision requested by *Journal of the Royal Statistical Society: Series C*.
 1. Ye Z, Wang Y, **Gu Y**, Kang K. A Longitudinal Multi-Domain Latent Structure Model for Domain-specific Disease Progression. 
 1. Lyu R<sup>#</sup>, **Gu Y**$^\dagger$, Jiang J<sup>#</sup>, Lam KF. Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs.
-1. **Gu Y**$^\dagger$, Zeng D, Lin DY. Prediction-oriented transfer learning for semiparametric transformation models with survival data. 
+<!-- 1. **Gu Y**$^\dagger$, Zeng D, Lin DY. Prediction-oriented transfer learning for semiparametric transformation models with survival data.  -->
 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Ahn HS, Nguyen KN, Khanna A, Avery CL, Highland HM, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. Genomic basis of the developmental defects of enamel and sex-specific effects.
 1. Wang Y, Deng Y, **Gu Y**, Wang Y, Zeng D. Debiased Inference for High-Dimensional Regression Models Based on Profile M-Estimation. 
   
