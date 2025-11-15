@@ -31,7 +31,7 @@ Book Chapters
 Papers Under Review or In Revision
 ======  
 1. Simancas-Pallares MA, Gormley A, Shrestha P, **Gu Y**, Cho H, Spangler HD, Burk Z, Smith M, Dashper S, Burgner D, Ferreira Zandoná AG, Ginnis J, Vann WF, Esberg A, Roach J, Ribeiro A, Wu D, Silva MJ, Holgerson PL, Haworth S, Johansson I, North KE, Divaris K. Evidence for Clinical Subtypes of Early Childhood Caries.  
-1. Fang J<sup>#</sup>$^\*$, **Gu Y**$^\*$, Yin G. Pseudo-death: A New Measure to Evaluate Composite Outcomes in Survival Analysis. Major revision requested by *Journal of the Royal Statistical Society: Series C*.
+1. Fang J<sup>#</sup>, **Gu Y**, Yin G. Pseudo-death: A New Measure to Evaluate Composite Outcomes in Survival Analysis. Major revision requested by *Journal of the Royal Statistical Society: Series C*.
 1. Ye Z, Wang Y, **Gu Y**, Kang K. A Longitudinal Multi-Domain Latent Structure Model for Domain-specific Disease Progression. Major revision requested by *Journal of the American Statistical Association*.
 1. Lyu R<sup>#</sup>, **Gu Y**$^\dagger$, Jiang J<sup>#</sup>, Lam KF. Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs.
 1. Wang Y, Deng Y, **Gu Y**, Wang Y, Zeng D. Debiased Inference for High-Dimensional Regression Models Based on Profile M-Estimation. 
