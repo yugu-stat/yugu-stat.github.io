@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+- [12/2025] "Prediction-Oriented Transfer Learning for Survival Analysis", Joint Meetings of 2025 Taipei International Statistical Symposium and the 13th ICSA International Conference, Taipei City, Taiwan.
 - [07/2025] "Prediction-Oriented Transfer Learning for Survival Analysis", The 3rd Joint Conference on Statistics and Data Science in China, Hangzhou, China.
 - [06/2025] "Prediction-Oriented Transfer Learning for Survival Analysis", ICSA 2025 China Conference, Zhuhai, China.
 - [07/2024] "Maximum Likelihood Estimation for Semiparametric Regression Models with Interval-Censored Multi-State Data", EcoSta 2024, Beijing, China.
