@@ -36,6 +36,7 @@ Papers Under Review or In Revision
 1. Lyu R<sup>#</sup>, **Gu Y**$^\dagger$, Jiang J, Lam KF. Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs.
 1. Wang Y, Deng Y, **Gu Y**, Wang Y, Zeng D. Debiased Inference for High-Dimensional Regression Models Based on Profile M-Estimation. 
 1. **Gu Y**$^\dagger$, Zeng D, Lin DY. Prediction-Oriented Transfer Learning for Survival Analysis. 
+1. **Gu Y**, Xu Y, Sang P. Varying Coefficient Model for Longitudinal Data with Informative Observation Times.
 <!-- 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Ahn HS, Nguyen KN, Khanna A, Avery CL, Highland HM, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. Genomic basis of the developmental defects of enamel and sex-specific effects. -->
   
 <!-- Grants
