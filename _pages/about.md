@@ -20,8 +20,9 @@ Research Interests
 
 Openings
 ======
-- I have several **PhD** positions. Please email me your CV and transcript if you are interested. Applicants with strong mathematical background and computational skills are preferred. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  
-- I have one **Postdoc** position. Please email me your CV if you are interested. Applicants from all research areas, with at least one first-authored statistical paper published or under revision, will be given full consideration. 
+<!-- - I have several **PhD** positions. Please email me your CV and transcript if you are interested. Applicants with strong mathematical background and computational skills are preferred. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  
+- I have one **Postdoc** position. Please email me your CV if you are interested. Applicants from all research areas, with at least one first-authored statistical paper published or under revision, will be given full consideration.  -->
+No current openings.
 
 News
 ======
