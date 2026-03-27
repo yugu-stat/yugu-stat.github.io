@@ -12,4 +12,4 @@ author_profile: true
 
 MPhil Students
 ======
-- Ruoxi Lyu (2024--present)
+- Ruoxi Lyu (2024--2026)
