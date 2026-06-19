@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <sub><sup>$^\dagger$ indicates corresponding author; $^\*$ indicates equal contribution; <sup>#</sup> indicates student author under my supervision. </sup></sub>
-1. Fang J$^\*$, **Gu Y**$^\*$, Yin G. Pseudo-death: A New Measure to Evaluate Composite Outcomes in Survival Analysis. *Journal of the Royal Statistical Society: Series C*, 2026.
+1. Fang J$^\*$, **Gu Y**$^\*$, Yin G. [Pseudo-death: A New Measure to Evaluate Composite Outcomes in Survival Analysis](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlag030/8699849). *Journal of the Royal Statistical Society: Series C*, 2026.
 1. **Gu Y**$^\dagger$, Zeng D, Lin DY. [Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State](https://doi.org/10.1080/01621459.2024.2448858). *Journal of the American Statistical Association*, 2025.
 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Avery CL, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Orlova K, Ahn HS, Nguyen KN, Highland HM, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. [Multiancestry Genome-Wide Association Study of Early Childhood Caries](https://journals.sagepub.com/doi/10.1177/00220345241291528). *Journal of Dental Research*, 2024. 
 1. Lin DY, Xu Y, **Gu Y**, Sunny SK, Moore Z, Zeng D. [Impact of Booster Vaccination Interval on SARS-CoV-2 Infection, Hospitalization, and Death](https://www.ijidonline.com/article/S1201-9712(24)00155-3/fulltext). *International Journal of Infectious Diseases*, 2024.
@@ -39,7 +39,7 @@ Papers Under Review or In Revision
 1. **Gu Y**, Xu Y, Sang P. Varying Coefficient Model for Longitudinal Data with Informative Observation Times. Major revision requested by *The Annals of Applied Statistics*. 
 1. Qi C<sup>#</sup>, Kang K, **Gu Y**$^\dagger$. Semiparametric functional model for imaging and interval-censored multistate data. 
 1. Hu J<sup>#</sup>, **Gu Y**$^\dagger$. SPOT-IC: Improving Prediction for Interval-Censored Data via Survival Probability Transfer. 
-<!-- 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Ahn HS, Nguyen KN, Khanna A, Avery CL, Highland HM, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. Genomic basis of the developmental defects of enamel and sex-specific effects. -->
+1. Shrestha P, Graff M, **Gu Y**, Wang Y, Ahn HS, Nguyen KN, Khanna A, Avery CL, Highland HM, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. Genomic basis of the developmental defects of enamel and sex-specific effects.
   
 <!-- Grants
 ======
