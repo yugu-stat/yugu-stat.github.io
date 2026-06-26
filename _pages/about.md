@@ -20,12 +20,13 @@ Research Interests
 
 Openings
 ======
-<!-- - I have several **PhD** positions. Please email me your CV and transcript if you are interested. Applicants with strong mathematical background and computational skills are preferred. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  
-- I have one **Postdoc** position. Please email me your CV if you are interested. Applicants from all research areas, with at least one first-authored statistical paper published or under revision, will be given full consideration.  -->
-No current openings.
+- I have several **PhD** positions. Please email me your CV and transcript if you are interested. Applicants with strong mathematical background and computational skills are preferred. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  
+- I have one **Postdoc** position. Please email me your CV if you are interested. Applicants from all research areas, with at least one first-authored statistical paper published or under revision, will be given full consideration. 
+<!-- No current openings. -->
 
 News
 ======
+- [06/2026] I am grateful to have received the RGC-GRF grant.
 - [12/2024] Our paper on semiparametric analysis of multi-state data under mixed censoring schemes has been accepted by JASA.
 - [06/2024] I am grateful to have received the RGC-ECS grant.
 - [04/2024] I am honored to have received the Barry H. Margolin dissertation award.
