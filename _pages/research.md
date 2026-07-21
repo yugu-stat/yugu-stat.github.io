@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <sub><sup>$^\dagger$ indicates corresponding author; $^\*$ indicates equal contribution; <sup>#</sup> indicates student author under my supervision. </sup></sub>
+1. Lyu R<sup>#</sup>, Jiang J, Lam KF, **Gu Y**$^\dagger$. Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs. *Statistics in Biopharmaceutical Research*, 2026. 
 1. Fang J$^\*$, **Gu Y**$^\*$, Yin G. [Pseudo-death: A New Measure to Evaluate Composite Outcomes in Survival Analysis](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlag030/8699849). *Journal of the Royal Statistical Society: Series C*, 2026.
 1. **Gu Y**$^\dagger$, Zeng D, Lin DY. [Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State](https://doi.org/10.1080/01621459.2024.2448858). *Journal of the American Statistical Association*, 2025.
 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Avery CL, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Orlova K, Ahn HS, Nguyen KN, Highland HM, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. [Multiancestry Genome-Wide Association Study of Early Childhood Caries](https://journals.sagepub.com/doi/10.1177/00220345241291528). *Journal of Dental Research*, 2024. 
@@ -32,8 +33,7 @@ Book Chapters
 Papers Under Review or In Revision
 ======  
 1. Simancas-Pallares MA, Gormley A, Shrestha P, **Gu Y**, Cho H, Spangler HD, Burk Z, Smith M, Dashper S, Burgner D, Ferreira Zandoná AG, Ginnis J, Vann WF, Esberg A, Roach J, Ribeiro A, Wu D, Silva MJ, Holgerson PL, Haworth S, Johansson I, North KE, Divaris K. Evidence for Clinical Subtypes of Early Childhood Caries.  
-1. Ye Z, Wang Y, **Gu Y**, Kang K. A Longitudinal Multi-Domain Latent Structure Model for Domain-specific Disease Progression. Major revision requested by *Journal of the American Statistical Association*.
-1. Lyu R<sup>#</sup>, Jiang J, Lam KF, **Gu Y**$^\dagger$. Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs. Major revision requested by *Statistics in Biopharmaceutical Research*. 
+1. Ye Z, Wang Y, **Gu Y**, Kang K. A Longitudinal Multi-Domain Latent Structure Model for Domain-specific Disease Progression. Minor revision requested by *Journal of the American Statistical Association*.
 1. Wang Y, Deng Y, **Gu Y**, Wang Y, Zeng D. Debiased Inference for High-Dimensional Regression Models Based on Profile M-Estimation. 
 1. **Gu Y**$^\dagger$, Zeng D, Lin DY. Prediction-Oriented Transfer Learning for Survival Analysis. Major revision requested by *Biometrics*. 
 1. **Gu Y**, Xu Y, Sang P. Varying Coefficient Model for Longitudinal Data with Informative Observation Times. Major revision requested by *The Annals of Applied Statistics*. 
