@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <sub><sup>$^\dagger$ indicates corresponding author; $^\*$ indicates equal contribution; <sup>#</sup> indicates student author under my supervision. </sup></sub>
-1. Lyu R<sup>#</sup>, Jiang J, Lam KF, **Gu Y**$^\dagger$. [Evaluating time-varying and heterogeneous efficacy of COVID-19 antiviral drugs](https://www.tandfonline.com/doi/full/10.1080/19466315.2026.2709381). *Statistics in Biopharmaceutical Research*, 2026. 
+1. Lyu R<sup>#</sup>, Jiang J, Lam KF, **Gu Y**$^\dagger$. [Evaluating Time-Varying and Heterogeneous Efficacy of COVID-19 Antiviral Drugs](https://www.tandfonline.com/doi/full/10.1080/19466315.2026.2709381). *Statistics in Biopharmaceutical Research*, 2026. 
 1. Fang J$^\*$, **Gu Y**$^\*$, Yin G. [Pseudo-death: A New Measure to Evaluate Composite Outcomes in Survival Analysis](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlag030/8699849). *Journal of the Royal Statistical Society: Series C*, 2026.
 1. **Gu Y**$^\dagger$, Zeng D, Lin DY. [Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State](https://doi.org/10.1080/01621459.2024.2448858). *Journal of the American Statistical Association*, 2025.
 1. Shrestha P, Graff M, **Gu Y**, Wang Y, Avery CL, Ginnis J, Simancas-Pallares MA, Ferreira Zandoná AG, Alotaibi RN, Orlova K, Ahn HS, Nguyen KN, Highland HM, Lin DY, Preisser JS, Slade GD, Marazita ML, North KE, Divaris K. [Multiancestry Genome-Wide Association Study of Early Childhood Caries](https://journals.sagepub.com/doi/10.1177/00220345241291528). *Journal of Dental Research*, 2024. 
