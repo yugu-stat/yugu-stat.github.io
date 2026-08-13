@@ -14,7 +14,7 @@ My [**CV**](/files/CV_250816.pdf) here
 
 Research Interests
 ======
-- **Survival analysis:** I study semiparametric regression models for interval-censored failure times and multistate processes. I also develop methods for integrative analysis of multistate, longitudinal, and imaging data to improve risk prediction in chronic diseases. More broadly, I am interested in statistical applications of survival analysis in medicine and public health. 
+- **Survival analysis:** I study semiparametric regression models for interval-censored failure times and multistate processes. I also develop methods for integrative analysis of multistate, longitudinal, and imaging data to improve risk prediction in Alzheimer's disease. More broadly, I am interested in statistical applications of survival analysis in medicine and public health. 
 - **Statistical machine learning & AI:** I develop transfer learning methods tailored to survival outcomes and study generative modeling for complex censored data.
 - **Functional data analysis:** Together with my collaborators, I develop methods for analyzing functional and longitudinal data with informative observation times and latent structures.
 
