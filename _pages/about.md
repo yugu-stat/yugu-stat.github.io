@@ -14,20 +14,20 @@ My [**CV**](/files/CV_250816.pdf) here
 
 Research Interests
 ======
-- **Survival analysis:** I study semiparametric regression models for complex censored outcomes, with a focus on interval-censored failure times and multi-state processes. I also develop methods for integrative analysis of survival, longitudinal, and imaging data to enhance risk prediction in chronic diseases. Moreover, I am broadly interested in statistical applications of survival analysis in medicine and public health.    
-- **Statistical machine learning:** I develop novel machine learning methods tailored to survival outcomes, with a special interest in transfer learning for survival analysis. I also investigate deep learning methods for flexible nonparametric and semiparametric inference with censored data.
-- **Functional data analysis:** Together with my colleagues, I develop novel methods for analyzing complex functional and longitudinal data, particularly those with informative observation times and latent structures.
+- **Survival analysis:** I study semiparametric regression models for interval-censored failure times and multistate processes. I also develop methods for integrative analysis of multistate, longitudinal, and imaging data to improve risk prediction in chronic diseases. More broadly, I am interested in statistical applications of survival analysis in medicine and public health. 
+- **Statistical machine learning & AI:** I develop transfer learning methods tailored to survival outcomes and study generative modeling for complex censored data.
+- **Functional data analysis:** Together with my collaborators, I develop methods for analyzing functional and longitudinal data with informative observation times and latent structures.
 
 Openings
 ======
-- I have several **PhD** positions. Please email me your CV and transcript if you are interested. Applicants with strong mathematical background and computational skills are preferred. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  
 - I have one **Postdoc** position. Please email me your CV if you are interested. Applicants from all research areas, with at least one first-authored statistical paper published or under revision, will be given full consideration. 
+- I have several **PhD** positions. Please email me your CV and transcript if you are interested. Applicants with strong mathematical background and computational skills are preferred. Please understand that due to the high volume of inquiries, I may not be able to respond to each email individually.  
 <!-- No current openings. -->
 
-News
+<!-- News
 ======
 - [06/2026] I am grateful to have received the RGC-GRF grant.
 - [12/2024] Our paper on semiparametric analysis of multi-state data under mixed censoring schemes has been accepted by JASA.
 - [06/2024] I am grateful to have received the RGC-ECS grant.
 - [04/2024] I am honored to have received the Barry H. Margolin dissertation award.
-- [10/2023] Our paper on semiparametric inference with interval-censored multi-state data has been accepted by Biometrika. 
+- [10/2023] Our paper on semiparametric inference with interval-censored multi-state data has been accepted by Biometrika.  -->
